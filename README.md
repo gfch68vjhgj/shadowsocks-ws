@@ -1,8 +1,8 @@
 # Shadowsocks over WebSocket
 
-[![Build Status](https://travis-ci.org/totravel/shadowsocks-ws.svg?branch=master)](https://travis-ci.org/totravel/shadowsocks-ws)
-![License](https://img.shields.io/github/license/totravel/shadowsocks-ws)
-![GitHub last commit](https://img.shields.io/github/last-commit/totravel/shadowsocks-ws)
+[![Build Status](https://travis-ci.org/gfch68vjhgj/shadowsocks-ws.svg?branch=master)](https://travis-ci.org/gfch68vjhgj/shadowsocks-ws)
+![License](https://img.shields.io/github/license/gfch68vjhgj/shadowsocks-ws)
+![GitHub last commit](https://img.shields.io/github/last-commit/gfch68vjhgj/shadowsocks-ws)
 
 shadowsocks-ws 是基于 WebSocket 的 Shadowsocks，可以部署在 [Heroku](https://www.heroku.com/) 等托管平台。
 
@@ -41,7 +41,7 @@ shadowsocks-ws 客户端只负责转发经过加密的流量，须配合 [Shadow
 克隆代码到本地，安装依赖：
 
 ```shell
-$ git clone https://github.com/totravel/shadowsocks-ws.git
+$ git clone https://github.com/gfch68vjhgj/shadowsocks-ws.git
 $ cd shadowsocks-ws
 $ npm i
 ```
